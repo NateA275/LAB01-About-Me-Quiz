@@ -17,4 +17,4 @@ Interact with the program through console window
 
 ## Visual
 
-![about-me-image](./assets/about-me-image.PNG)
+![about-me-image](../assets/about-me-image.PNG)
