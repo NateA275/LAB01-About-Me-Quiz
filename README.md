@@ -14,3 +14,7 @@ Navigate to where you cloned into local files.
 Open "About Me Quiz.sln"
 Run the program
 Interact with the program through console window
+
+## Visual
+
+![about-me-image](/about%20me%20quiz/assets/about-me-image.png)
