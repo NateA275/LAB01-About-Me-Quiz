@@ -17,4 +17,4 @@ Interact with the program through console window
 
 ## Visual
 
-![about-me-image](./about%20me%20quiz/assets/about-me-image.png)
+![about-me-image](assets/about-me-image.png)
