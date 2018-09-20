@@ -1,4 +1,4 @@
-# LAB01-About-Me-Quiz
+# About Me Quiz
 
 ## Project Goals
 
